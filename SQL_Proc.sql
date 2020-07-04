@@ -242,3 +242,6 @@ create proc xoaChucvu(
 as begin
 delete chucvu where machucvu = @machuvu
 end
+
+--thay doi SQl_proc moi .dajsdkansdka
+--hello word
